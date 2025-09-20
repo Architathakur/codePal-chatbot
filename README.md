@@ -24,7 +24,11 @@ CodePal is an AI-powered coding assistant that helps you with programming questi
 -Add user authentication and history saving
 -Enhance UI with themes and advanced editor features
 
+## Live Preview
+https://architathakur.github.io/codePal-chatbot/
+
 ## Author
 
 Archita Thakur
 architath27@gmail.com
+
